@@ -1,5 +1,6 @@
 # Flash Card App
-This is a simple flash card app built with Python and Tkinter that allows users to learn new words in a foreign language. The app displays a French word and after a short while, the user is supposed to check if they know the correct English word for that. If the user answers correctly, they should click on the correct button, or if wrong, they should click the incorrect button. The app uses two CSV files: `french_words.csv` and `words_to_learn.csv`. The `french_words.csv` file contains the initial list of French words that the user will learn, and the `words_to_learn.csv` file contains the words that the user answered incorrectly and needs to review.
+This is a simple Flash Card App built with Python and Tkinter that allows users to learn new words in a foreign language. The app displays a French word and 
+after a short while, the user is supposed to check if they know the correct English word for that. If the user answers correctly, they should click on the correct button, or if wrong, they should click the incorrect button. The app uses two CSV files: `french_words.csv` and `words_to_learn.csv`. The `french_words.csv` file contains the initial list of French words that the user will learn, and the `words_to_learn.csv` file contains the words that the user answered incorrectly and needs to review.
 
 ## Prerequisites
 The following libraries are required to run this application:
